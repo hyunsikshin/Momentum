@@ -4,4 +4,4 @@ A clone of the productivity chrome app [Momentum](https://chrome.google.com/webs
 
 ## Try it out
 
-[http://hyunxic.me/Momentum/](http://hyunxic.me/Momentum/)
+[http://hyunsikshin.github.io/Momentum/](http://hyunsikshin.github.io/Momentum/)
